@@ -1,0 +1,38 @@
+{
+  "name": "KompiTextAja",
+  "short_name": "KompiTextAja",
+  "start_url": "https://kompitext.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s48/okeabahokeabah.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s72/okeabahokeabah.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s96/okeabahokeabah.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s144/okeabahokeabah.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s168/okeabahokeabah.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s192/okeabahokeabah.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uuzME6n6O_8/X4tUepnBNVI/AAAAAAAAAC4/Fby1gOpEkW8TMvS3AY-yb7yFGbZQvWhEgCLcBGAsYHQ/s512/okeabahokeabah.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
